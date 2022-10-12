@@ -1,6 +1,7 @@
 # 1v1 Fighting
  A game made with Unity for TechMasters Game Development Bootcamp. This game made as bootcamp finishing project.
  There is a rar version of playable build.
+ # Please be aware this is not completed version, you might encounter bugs!
  Here is some photos from game:
  
 ![Image](https://i.hizliresim.com/akiuvu2.PNG)
