@@ -3,24 +3,25 @@
  There is a rar version of playable build.
  Here is some photos from game:
  
- https://www.hizliresim.com/akiuvu2
+![Image](https://i.hizliresim.com/akiuvu2.PNG)
  
+
+![Image](https://i.hizliresim.com/jtxsti0.PNG)
+
  
- https://www.hizliresim.com/jtxsti0
+![Image](https://i.hizliresim.com/10xf5d7.PNG)
+
  
+![Image](https://i.hizliresim.com/3220aqf.PNG)
+
  
- https://www.hizliresim.com/10xf5d7
+![Image](https://i.hizliresim.com/asg40qv.PNG)
+
  
+![Image](https://i.hizliresim.com/2vrxt2f.PNG)
+
  
- https://www.hizliresim.com/3220aqf
- 
- 
- https://www.hizliresim.com/asg40qv
- 
- 
- https://www.hizliresim.com/2vrxt2f
- 
- 
- https://www.hizliresim.com/o65ufa7
+![Image](https://i.hizliresim.com/o65ufa7.PNG)
+
  
  
